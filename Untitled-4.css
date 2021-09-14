@@ -75,10 +75,11 @@ a{
 	background-size:contain;*/
 }
 .content1__navbar1{
-	height:200px;
-	width:100%;
+	height:150px;
 	position:fixed;
+	width:100%;
 	z-index: 10000000;
+	
 }
 .paddingnoidunglai{
 	padding:60px 80px;
